@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673112250 source:c:\users\anton\onedrive\Área de trabalho\estudos\ed2\heap\main.c
+	<stdio.h>
+	"TAD.h"
+
+1673112250 c:\users\anton\onedrive\Área de trabalho\estudos\ed2\heap\tad.h
+
